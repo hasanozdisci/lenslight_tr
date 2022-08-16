@@ -1,3 +1,4 @@
+//CONNECTION TO THE DB
 import mongoose from "mongoose";
 
 const conn = () => {
