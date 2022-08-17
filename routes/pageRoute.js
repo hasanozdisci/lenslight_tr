@@ -1,3 +1,4 @@
+//page routes
 import express from "express";
 import * as pageController from "../controllers/pageController.js";
 
